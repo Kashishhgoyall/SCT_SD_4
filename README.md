@@ -67,10 +67,15 @@ products_regex_only.csv
 📄 Sample CSV Content
 
 Name                                    Price     Rating
+
 A Light in the Attic                    £51.77   Three
+
 Tipping the Velvet                      £53.74   One
+
 Soumission                              £50.10   Five
+
 Sharp Objects                           £47.82   Two
+
 Sapiens: A Brief History of Humankind  £54.23   Four
 
 
@@ -100,5 +105,6 @@ ProductsCSVOutput:
 ✅ Built a console-driven Java application that is user-friendly.
 
 ✅ Gained experience with Git & GitHub for version control.
+
 
 
