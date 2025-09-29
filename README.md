@@ -17,20 +17,19 @@ Unlike many scrapers, this one is 100% regex-based — no external libraries lik
 
 🌟 Key Features
 
-💻 Console Application – No GUI required.
+- 💻 Console Application – No GUI required.
 
-📊 CSV Output – File: products_regex_only.csv.
+- 📊 CSV Output – File: products_regex_only.csv.
 
-🏷️ Extracts Important Data – Name, Price, Rating.
+- 🏷️ Extracts Important Data – Name, Price, Rating.
 
-⚡ Lightweight & Simple – Pure Java using regex and HTTP requests.
+- ⚡ Lightweight & Simple – Pure Java using regex and HTTP requests.
 
-🙌 Easy to Use – Enter a URL and the program does everything.
+- 🙌 Easy to Use – Enter a URL and the program does everything.
 
 📂 Project Structure
 
 SCT_SD_4/
-│
 
 ├─ ProductScraperRegexOnly.java      # Source code
 
@@ -64,19 +63,16 @@ CSV file is generated in the same folder:
 
 products_regex_only.csv
 
+
 📄 Sample CSV Content
 
-Name	Price	Rating
+Name                                    Price     Rating
+A Light in the Attic                    £51.77   Three
+Tipping the Velvet                      £53.74   One
+Soumission                              £50.10   Five
+Sharp Objects                           £47.82   Two
+Sapiens: A Brief History of Humankind  £54.23   Four
 
-A Light in the Attic	£51.77	Three
-
-Tipping the Velvet	£53.74	One
-
-Soumission	£50.10	Five
-
-Sharp Objects	£47.82	Two
-
-Sapiens: A Brief History of Humankind	£54.23	Four
 
 📸 Result Screenshots
 
@@ -104,4 +100,5 @@ ProductsCSVOutput:
 ✅ Built a console-driven Java application that is user-friendly.
 
 ✅ Gained experience with Git & GitHub for version control.
+
 
