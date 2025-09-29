@@ -65,7 +65,7 @@ products_regex_only.csv
 
 
 📄 Sample CSV Content
-
+```
 Name                                     Price     Rating
 
 --------------------------------------------------------
@@ -80,7 +80,7 @@ Sharp Objects                            £47.82   Two
 
 Sapiens: A Brief History of Humankind   £54.23   Four
 
-
+```
 
 📸 Result Screenshots
 
@@ -108,6 +108,7 @@ ProductsCSVOutput:
 ✅ Built a console-driven Java application that is user-friendly.
 
 ✅ Gained experience with Git & GitHub for version control.
+
 
 
 
