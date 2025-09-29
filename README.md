@@ -34,7 +34,7 @@ SCT_SD_4/
 ├─ ProductScraperRegexOnly.class     # Compiled Java class
 ├─ products_regex_only.csv           # Generated CSV file
 ├─ README.md                         # Project documentation
-└─ Results/                           # Screenshots or other images
+└─ Results/                          # Screenshots or other images
 
 🚀 How to Run
 1️⃣ Compile
@@ -55,9 +55,7 @@ CSV file is generated in the same folder:
 
 products_regex_only.csv
 
-
-Sample CSV content:
-
+📄 Sample CSV Content
 Name	Price	Rating
 A Light in the Attic	£51.77	Three
 Tipping the Velvet	£53.74	One
@@ -66,22 +64,24 @@ Sharp Objects	£47.82	Two
 Sapiens: A Brief History of Humankind	£54.23	Four
 📸 Result Screenshots
 
+ConsoleCode:
 ![ScreenShots](Results/ConsoleCode.png)
 
+ConsoleOutput:
 ![ScreenShots](Results/ConsoleOutput.png)
 
+ProductsCSVOutput:
 ![ScreenShots](Results/ProductCSVOutput.png)
 
 
 🌱 Learning & Takeaways
 
-Learned how to scrape HTML using regex without external libraries.
+✅ Learned how to scrape HTML using regex without external libraries.
 
-Practiced pattern matching with Pattern and Matcher in Java.
+✅ Practiced pattern matching with Pattern and Matcher in Java.
 
-Learned how to handle CSV formatting including special characters.
+✅ Learned how to handle CSV formatting, including special characters.
 
-Built a console-driven Java application that is user-friendly.
+✅ Built a console-driven Java application that is user-friendly.
 
-Gained experience with Git & GitHub for version control.
-
+✅ Gained experience with Git & GitHub for version control.
